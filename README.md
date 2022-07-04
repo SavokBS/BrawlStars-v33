@@ -6,3 +6,5 @@ Brawl Stars v33 server written on Python that includes some basic functions
 You must find client by yourself, but i left leaked script for v33 in this repo. (I made offline battles in it, so you can play battles from lobby)
 # Authors
 SaVok - discord: SaVok#8005, telegram: @sayonaravoke
+# Support
+If you like project, please press 🌟 star!
