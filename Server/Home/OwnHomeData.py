@@ -263,3 +263,5 @@ class OwnHomeData(Writer):
         self.writeVInt(2)  # Tutorial State
         
         self.writeVInt(2)
+	
+	#охд негры своровали
